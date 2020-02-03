@@ -33,3 +33,11 @@ This project is hosted on Glitch.
 ## Author
 
 [Simone Salvo](https://www.simonesalvo.com/)
+
+#Notes & Process
+
+## Process & Documentation
+
+[See on my blog](https://www.simonesalvo.com/itp-portfolio/2020/2/2/my-first-website)
+
+
