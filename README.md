@@ -1,7 +1,7 @@
 # My first website
 
 ## About
-My first website is a coneptual idea for a perfomative web application that will allow people to submit an email to my grandmother, which will then be sent to her via snail-mail
+My first website is a coneptual idea for a perfomative web application that will allow people to submit an email to my grandmother, which will then be sent to her via snail-mail. Please note that there is no CSS and the form is not functional.
 
 ![collage of images of Junie Moonie](https://simoneava-first-website.glitch.me/junecollage.png)
 
