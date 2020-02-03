@@ -40,4 +40,8 @@ This project is hosted on Glitch.
 
 [See on my blog](https://www.simonesalvo.com/itp-portfolio/2020/2/2/my-first-website)
 
+## Challenges & Struggles
+
+There were many! At first, I had a very difficult time getting the SSH key to work. Thankfully Joey was available to help walk me and another classmate through it. The other main challenge was being limited by my current skill-level/proficiency with HTML. I didn’t use any CSS, as I first wanted to successfully populate and deploy the site with a base-line of content. My next step will be to make the form functional and add some complimentary assets, like sound and/or video, and then stylize with CSS and Javascript. 
+
 
